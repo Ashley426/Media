@@ -1,0 +1,90 @@
+body {
+    background-color: blanchedalmond;
+}
+.sidebar {
+    /* float: right;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto; */
+    clear: both;
+    width: 250px;
+    margin-right: 10px;
+    float: right;
+  /* position: absolute; */
+  top: 0;
+  right: 0;
+  padding: 0;
+  text-align: left;
+  border: 1px solid red;
+}
+
+.sidebar a {
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+}
+
+div {
+    background-color: lightblue;
+}
+
+p {
+    background-color: darkseagreen;
+}
+.main-nav {
+    display: flex;
+    justify-content: space-evenly;
+    /* justify-content: space-between; */
+}
+    
+#testb{
+    height: 50px;
+    width: 50px;
+}
+
+
+.ul class {
+    float: left;
+        border: 100px;10%; border-style: dashed;
+        margin-right:10px;
+        margin-bottom:10px
+}
+/* .img {
+
+    float:left;
+    width: 128px;
+    height:128px
+} */
+.paper{
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 20px
+}
+
+.paper {
+    border: 10px black solid;
+    height: 100px;
+    width: 500px;
+}
+
+.piece{
+box-sizing: border-box 10% color blue
+content-box;
+display: flex;
+flex-wrap: wrap;
+}
+
+.h1 {
+    border-color: aqua dotted
+}
+
+.div class {
+    float: left;
+    padding: 15px;
+}
+
