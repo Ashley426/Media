@@ -1,0 +1,32 @@
+header{
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    }
+
+.button {
+    color: red;
+    height: 10;
+    width: 10;
+    position: absolute;
+    top: 380px;
+    left: 350px;
+}
+
+.container{
+    position: absolute;
+    text-align: center;
+    top: 50px;
+    left: 50px;
+    text-align: center;
+    position: relative;
+}
+
+.text{
+    color: rgb(207, 194, 219);
+    position: absolute;
+    top: 170px;
+    left: 290px;
+
+}
